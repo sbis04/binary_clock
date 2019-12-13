@@ -1,6 +1,6 @@
-# binary_clock
+# Binary Clock 
 
-A new Flutter project.
+This is a binary clock created using Flutter.
 
 ## Getting Started
 
