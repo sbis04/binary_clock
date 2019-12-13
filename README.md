@@ -2,6 +2,8 @@
 
 This is a binary clock created using Flutter.
 
+<img src="https://github.com/sbis04/binary_clock/blob/master/Screen_recording/binary_clock.gif" height="500" alt="Screenshot"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
