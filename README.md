@@ -1,6 +1,6 @@
 # Binary Clock 
 
-This is a binary clock created using Flutter.
+This is a binary clock created using Flutter containing both Light and Dark modes.
 
 ## Getting Started
 
