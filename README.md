@@ -1,6 +1,6 @@
 # Binary Clock 
 
-This is a binary clock created using Flutter containing both Light and Dark modes.
+This is a binary clock created using Flutter containing both Light and Dark modes
 
 <img src="https://github.com/sbis04/binary_clock/blob/master/Screen_recording/binary_clock.gif" height="500" alt="Screenshot"/>
 
